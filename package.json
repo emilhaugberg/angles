@@ -1,0 +1,15 @@
+{
+  "name": "triangle-selector",
+  "version": "1.0.0",
+  "description": "Create triangle and detect angle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0",
+    "ramda": "^0.25.0"
+  }
+}
